@@ -1,0 +1,21 @@
+body
+{
+    background: white;
+    text-align: 5px;
+    font-weight: bold;
+}
+
+input
+{
+    display:inline;
+    width: 500px;
+}
+
+img
+{
+    margin-top: 55px;
+    display:inline;
+    width: 600px;
+}
+
+
