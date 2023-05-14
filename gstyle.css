@@ -3,19 +3,32 @@ body
     background: white;
     text-align: 5px;
     font-weight: bold;
+    col
 }
 
 input
 {
-    display:inline;
+    place-items: center;
+    display:block;
     width: 500px;
 }
 
 img
 {
-    margin-top: 55px;
-    display:inline;
+    place-items: center;
+    display:block;
     width: 600px;
+}
+
+div
+{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.main
+{
+    margin-top: 90px;
 }
 
 
