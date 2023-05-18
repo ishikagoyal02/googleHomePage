@@ -3,14 +3,13 @@ body
     background: white;
     text-align: 5px;
     font-weight: bold;
-    col
 }
 
 input
 {
     place-items: center;
     display:block;
-    width: 900px;
+    width: 1000px;
     height:24px;
 
     /*border setting*/
@@ -40,6 +39,14 @@ div
 .main
 {
     margin-top: 90px;
+}
+
+button
+{
+    font-size: 15px;
+    border: none;
+    background: #b9bdc8;
+    padding: 7px;
 }
 
 
